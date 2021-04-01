@@ -2,4 +2,6 @@
 
 This repo is for all my coursefiles completed through teamtreehouse.com
 
-Checkout my Treehouse profile - www.treehouse.com/michaelwillcock
+Also checkout my Treehouse profile [here] (https://teamtreehouse.com/michaelwillcock)
+
+! [treehouse-images](https://cloud.githubusercontent.com/assets/16196725/11725636/8508b818-9f2f-11e5-98e2-f4c4cd5210fe.jpg)
