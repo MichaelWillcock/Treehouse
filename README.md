@@ -1,7 +1,15 @@
 ## Treehouse
+### About:
+This Repository is containing my coursefiles completed through [Treehouse](teamtreehouse.com).
 
-This repo is for all my coursefiles completed through teamtreehouse.com
+-------------------------------------------------
 
-Also checkout my Treehouse profile [here] (https://teamtreehouse.com/michaelwillcock)
+### Contents:
+- [Lumberjack](lumberjack.py): This code takes your name as input and turns it into a sentence. For example:
 
-! [treehouse-images](https://cloud.githubusercontent.com/assets/16196725/11725636/8508b818-9f2f-11e5-98e2-f4c4cd5210fe.jpg)
+- [Number Game](number_game.py): Here the user gets a chance to guess a number between 1 and 10 both inclusive. Everytime a user guesses he or she is told if the guess is correct or number to be guessed is higher or lower than the last guessed number. Lesser the number of guesses, the better it is. For example:
+
+
+----------------------------------------------
+
+You can Check out My Treehouse Profile [here](https://teamtreehouse.com/michaelwillcock)
